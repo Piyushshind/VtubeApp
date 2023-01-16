@@ -1,0 +1,32 @@
+.para1{
+    font-size: 1rem;
+}
+.para2{
+    font-size: 1rem;
+}
+.bottom img{
+    height: 30vh;
+    width: 20vw;
+}
+.aboutmain{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+    padding: 100px;
+    border: 2px solid black;
+}
+.aboutmain li{
+    list-style: none;
+}
+
+.ProfileImg{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20%;
+}
